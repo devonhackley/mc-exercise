@@ -1,1 +1,2 @@
-#This is what Carol and Bob did on Bob's laptop.
+#This is what Bob and Carol did on Carol's computer
+
